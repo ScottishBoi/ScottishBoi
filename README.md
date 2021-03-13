@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ScottishBoi
+- 👀 I’m interested in: Game engines, gaming, programming
+- 🌱 I’m currently learning: Unity C#
+- 📫 How to reach me: alexthomas160407@gmail.com
